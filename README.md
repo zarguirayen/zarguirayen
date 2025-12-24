@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rayen Zargui — Data Science & Applied ML Engineer
+# 👋 Hi, I'm Rayen Zargui — Data Science 
 
 ## 🎓 About Me
 
@@ -65,6 +65,6 @@ End-to-end ML pipeline handling **highly imbalanced data**, feature selection, m
 
 ## 📫 Contact
 
-- GitHub: [github.com/zarguirayen](https://github.com/zarguirayen)
+- GitHub: *you are here* 😊
 - LinkedIn: [Rayen Zargui](https://www.linkedin.com/in/rayen-zargui-ensta/)
 - Email: rayen.zargui@ensta-paris.fr
