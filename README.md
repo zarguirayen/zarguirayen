@@ -9,8 +9,6 @@ I am a **third-year engineering student at ENSTA Paris** and a **Master’s stud
 
 My background combines **applied mathematics, probability, statistics, and optimization** with **advanced data science and machine learning**, with a strong focus on **real-world, high-impact applications**.
 
-I am currently seeking a **final-year internship (Stage de fin d’études – March 2026)** in **Data Science / Applied Machine Learning / Research-oriented roles**.
-
 ---
 
 ## 🔬 Academic & Technical Interests
