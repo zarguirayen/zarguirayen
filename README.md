@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rayen Zargui — Data Science 
+# 👋 Hi, I'm Rayen Zargui — Data Science Student
 
 ## 🎓 About Me
 
