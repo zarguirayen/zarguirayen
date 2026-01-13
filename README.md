@@ -52,7 +52,7 @@ End-to-end ML pipeline handling **highly imbalanced data**, feature selection, m
 
 ### 📊 Statistical Analysis & Modeling — mtcars (R)
 
-Exploratory analysis and predictive modeling of fuel consumption (mpg) using the mtcars dataset: correlation analysis and visualization, multiple linear regression, stepwise AIC variable selection, and PCA + Principal Component Regression (PCR), with model comparison using ANOVA. 
+Exploratory analysis and predictive modeling of fuel consumption (**mpg**) using the **mtcars** dataset: correlation analysis and visualization, **multiple linear regression**, **stepwise AIC variable selection**, and **PCA + Principal Component Regression (PCR)**, with model comparison using **ANOVA**. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 ---
 
 ## 🎯 Objectives
